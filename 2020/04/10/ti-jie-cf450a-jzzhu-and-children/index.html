@@ -845,22 +845,23 @@ queue <span class="token operator">&lt;</span>pair<span class="token operator">&
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2020/04/10/ti-jie-cf701b-cells-not-under-attack/">
+                <a href="/2020/04/10/ti-jie-cf748a-santa-claus-and-a-place-in-a-class/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="题解 CF701B 【Cells Not Under Attack】">
+                        <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="题解 CF748A 【Santa Claus and a Place in a Class】">
                         
-                        <span class="card-title">题解 CF701B 【Cells Not Under Attack】</span>
+                        <span class="card-title">题解 CF748A 【Santa Claus and a Place in a Class】</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            题目分析：这题是给出一个大小为n*n的棋盘，然后在上面放上m个“车”，每个“车”的坐标为Xi和Yi，要你分别算出各个棋子放上去后棋盘上还有多少个安全位置
+                            题目解析：这题其实就是一个二维矩阵，给你一个编号，让你输出这个编号所在的位置
 
 
-使用算法：本人一开始看到这篇水题也以为是一道二维模拟题，但看清题目要求后，发现n的
+使用算法：这题的范围：n,m,k.( 1&lt;=n,m&lt;=10000 , 1&lt;=k&lt;=2 * n* m )
+所以这道题不能用二维数组直接来
                         
                     </div>
                     <div class="publish-info">
@@ -894,27 +895,30 @@ queue <span class="token operator">&lt;</span>pair<span class="token operator">&
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                下一篇&nbsp;<i class="fa fa-chevron-right"></i>
+                本篇&nbsp;<i class="fa fa-dot-circle-o"></i>
             </div>
             <div class="card">
-                <a href="/2020/04/10/ti-jie-cf474a-keyboard/">
+                <a href="/2020/04/10/ti-jie-cf450a-jzzhu-and-children/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="题解 CF474A 【Keyboard】">
+                        <img src="/medias/featureimages/10.jpg" class="responsive-img" alt="题解 CF450A 【Jzzhu and Children】">
                         
-                        <span class="card-title">题解 CF474A 【Keyboard】</span>
+                        <span class="card-title">题解 CF450A 【Jzzhu and Children】</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            这道题其实是一道大水题，但是本蒟蒻一开始竟然昏了头，手敲出每一个的前面一项或后面一项
+                            前置知识：我们在这题用到的算法是STL中的queue
 
 
-if(a=='w') cout&lt;&lt;'e';
-if(a=='e') cout&lt;&lt;'r';
-if(a=='r') cout&lt;
+
+先来熟悉一下queue
+定义  #include    //万能头也包含
+详细用法:
+定义一个queue的变量     queue a
+查看是否为空范例        a.empt
                         
                     </div>
                     <div class="publish-info">
@@ -933,6 +937,7 @@ if(a=='r') cout&lt;
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
@@ -1119,7 +1124,7 @@ if(a=='r') cout&lt;
 
             
                 &nbsp; | &nbsp;字数统计:&nbsp;
-                <span class="white-color">6.4k</span> 字
+                <span class="white-color">6.6k</span> 字
             
 
             
@@ -1301,5 +1306,5 @@ $(function () {
             </script>
         
 
-    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"left","width":150,"height":200},"mobile":{"show":false},"react":{"opacity":0.7}});</script><script>!function(e){var r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function t(){for(var c=0;c<r.length;c++)t=r[c],void 0,0<=(n=t.getBoundingClientRect()).top&&0<=n.left&&n.top<=(e.innerHeight||document.documentElement.clientHeight)&&function(){var t,n,e,i,o=r[c];t=o,n=function(){r=r.filter(function(t){return o!==t})},e=new Image,i=t.getAttribute("data-original"),e.onload=function(){t.src=i,n&&n()},e.src=i}();var t,n}t(),e.addEventListener("scroll",function(){!function(t,n){clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(n)},500)}(t,e)})}(this);</script></body>
+    <script>!function(e){var r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function t(){for(var c=0;c<r.length;c++)t=r[c],void 0,0<=(n=t.getBoundingClientRect()).top&&0<=n.left&&n.top<=(e.innerHeight||document.documentElement.clientHeight)&&function(){var t,n,e,i,o=r[c];t=o,n=function(){r=r.filter(function(t){return o!==t})},e=new Image,i=t.getAttribute("data-original"),e.onload=function(){t.src=i,n&&n()},e.src=i}();var t,n}t(),e.addEventListener("scroll",function(){!function(t,n){clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(n)},500)}(t,e)})}(this);</script><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"left","width":150,"height":200},"mobile":{"show":false},"react":{"opacity":0.7}});</script></body>
 </html>

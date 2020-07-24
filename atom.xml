@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Mysteriousbird.github.io/"/>
-  <updated>2020-07-24T04:21:19.440Z</updated>
+  <updated>2020-07-24T09:24:06.727Z</updated>
   <id>https://Mysteriousbird.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Timeline</title>
+    <link href="https://Mysteriousbird.github.io/2020/07/24/timeline/"/>
+    <id>https://Mysteriousbird.github.io/2020/07/24/timeline/</id>
+    <published>2020-07-23T16:00:00.000Z</published>
+    <updated>2020-07-24T09:24:06.727Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;关于博客&quot;&gt;&lt;a href=&quot;#关于博客&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="其他" scheme="https://Mysteriousbird.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="其他" scheme="https://Mysteriousbird.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
   
   <entry>
     <title>STL之queue</title>
@@ -98,15 +124,15 @@
   </entry>
   
   <entry>
-    <title>题解 CF902A 【Visiting a Friend】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/</id>
+    <title>题解 CF734B 【Anton and Digits】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/</id>
     <published>2020-04-13T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:42.992Z</updated>
+    <updated>2020-07-24T04:20:33.136Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;此题的思路就是桶排序（也叫小学生排序）&lt;/p&gt;
+      &lt;h4 id=&quot;题目分析：&quot;&gt;&lt;a href=&quot;#题目分析：&quot; class=&quot;headerlink&quot; title=&quot;题目分析：&quot;&gt;&lt;/a&gt;题目分析：&lt;/h4&gt;&lt;p&gt;这题的题目可能有点难理解，其实就是给你k2个2，k3个3，k5个5，k6个6，让你把这些数组成256和32，但是组成的256和32的个数不能超过题目里的样例，然后要求组成的数的和最大&lt;/p&gt;
     
     </summary>
     
@@ -118,15 +144,15 @@
   </entry>
   
   <entry>
-    <title>题解 CF734B 【Anton and Digits】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/</id>
+    <title>题解 CF902A 【Visiting a Friend】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/</id>
     <published>2020-04-13T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:33.136Z</updated>
+    <updated>2020-07-24T04:20:42.992Z</updated>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;题目分析：&quot;&gt;&lt;a href=&quot;#题目分析：&quot; class=&quot;headerlink&quot; title=&quot;题目分析：&quot;&gt;&lt;/a&gt;题目分析：&lt;/h4&gt;&lt;p&gt;这题的题目可能有点难理解，其实就是给你k2个2，k3个3，k5个5，k6个6，让你把这些数组成256和32，但是组成的256和32的个数不能超过题目里的样例，然后要求组成的数的和最大&lt;/p&gt;
+      &lt;p&gt;此题的思路就是桶排序（也叫小学生排序）&lt;/p&gt;
     
     </summary>
     
@@ -178,15 +204,15 @@
   </entry>
   
   <entry>
-    <title>题解 CF450A 【Jzzhu and Children】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/</id>
+    <title>题解 CF581B 【Luxurious Houses】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/</id>
     <published>2020-04-09T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:21.433Z</updated>
+    <updated>2020-07-24T04:20:09.639Z</updated>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;前置知识：&quot;&gt;&lt;a href=&quot;#前置知识：&quot; class=&quot;headerlink&quot; title=&quot;前置知识：&quot;&gt;&lt;/a&gt;前置知识：&lt;/h4&gt;&lt;p&gt;我们在这题用到的算法是STL中的queue&lt;/p&gt;
+      &lt;h3 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h3&gt;&lt;p&gt;给你n栋房子，问你第i栋房子要再搭几层才能比它后面所有的房子高 &lt;strong&gt;（注意：是要严格大于，不能等于）&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
@@ -207,26 +233,6 @@
     <summary type="html">
     
       &lt;p&gt;这道题其实是一道&lt;strong&gt;大水题&lt;/strong&gt;，但是本蒟蒻一开始竟然昏了头，手敲出每一个的前面一项或后面一项&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>题解 CF581B 【Luxurious Houses】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/</id>
-    <published>2020-04-09T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:09.639Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h3&gt;&lt;p&gt;给你n栋房子，问你第i栋房子要再搭几层才能比它后面所有的房子高 &lt;strong&gt;（注意：是要严格大于，不能等于）&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
@@ -267,6 +273,26 @@
     <summary type="html">
     
       &lt;h4 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h4&gt;&lt;p&gt;这题其实就是一个二维矩阵，给你一个编号，让你输出这个编号所在的位置&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF450A 【Jzzhu and Children】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-07-24T04:20:21.433Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;前置知识：&quot;&gt;&lt;a href=&quot;#前置知识：&quot; class=&quot;headerlink&quot; title=&quot;前置知识：&quot;&gt;&lt;/a&gt;前置知识：&lt;/h4&gt;&lt;p&gt;我们在这题用到的算法是STL中的queue&lt;/p&gt;
     
     </summary>
     
