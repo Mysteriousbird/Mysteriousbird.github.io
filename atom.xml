@@ -204,6 +204,26 @@
   </entry>
   
   <entry>
+    <title>题解 CF450A 【Jzzhu and Children】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-07-24T04:20:21.433Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;前置知识：&quot;&gt;&lt;a href=&quot;#前置知识：&quot; class=&quot;headerlink&quot; title=&quot;前置知识：&quot;&gt;&lt;/a&gt;前置知识：&lt;/h4&gt;&lt;p&gt;我们在这题用到的算法是STL中的queue&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>题解 CF474A 【Keyboard】</title>
     <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf474a-keyboard/"/>
     <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf474a-keyboard/</id>
@@ -233,26 +253,6 @@
     <summary type="html">
     
       &lt;h3 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h3&gt;&lt;p&gt;给你n栋房子，问你第i栋房子要再搭几层才能比它后面所有的房子高 &lt;strong&gt;（注意：是要严格大于，不能等于）&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>题解 CF450A 【Jzzhu and Children】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/</id>
-    <published>2020-04-09T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:21.433Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;前置知识：&quot;&gt;&lt;a href=&quot;#前置知识：&quot; class=&quot;headerlink&quot; title=&quot;前置知识：&quot;&gt;&lt;/a&gt;前置知识：&lt;/h4&gt;&lt;p&gt;我们在这题用到的算法是STL中的queue&lt;/p&gt;
     
     </summary>
     

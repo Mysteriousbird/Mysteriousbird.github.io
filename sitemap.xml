@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://Mysteriousbird.github.io/about/index.html</loc>
+    
+    <lastmod>2020-11-21T04:51:20.197Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://Mysteriousbird.github.io/2020/07/24/timeline/</loc>
     
     <lastmod>2020-09-12T09:09:21.942Z</lastmod>
@@ -107,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://Mysteriousbird.github.io/about/index.html</loc>
-    
-    <lastmod>2020-07-23T13:41:39.419Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://Mysteriousbird.github.io/404.html</loc>
     
     <lastmod>2020-03-11T08:55:18.000Z</lastmod>
@@ -135,13 +135,6 @@
   </url>
   
   <url>
-    <loc>https://Mysteriousbird.github.io/galleries/index.html</loc>
-    
-    <lastmod>2020-03-11T08:55:18.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://Mysteriousbird.github.io/categories/index.html</loc>
     
     <lastmod>2020-03-11T08:55:18.000Z</lastmod>
@@ -149,14 +142,21 @@
   </url>
   
   <url>
-    <loc>https://Mysteriousbird.github.io/tags/index.html</loc>
+    <loc>https://Mysteriousbird.github.io/friends/index.html</loc>
     
     <lastmod>2020-03-11T08:55:18.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://Mysteriousbird.github.io/friends/index.html</loc>
+    <loc>https://Mysteriousbird.github.io/galleries/index.html</loc>
+    
+    <lastmod>2020-03-11T08:55:18.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://Mysteriousbird.github.io/tags/index.html</loc>
     
     <lastmod>2020-03-11T08:55:18.000Z</lastmod>
     
