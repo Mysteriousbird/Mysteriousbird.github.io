@@ -5,9 +5,9 @@
   <subtitle>好想爱这个世界啊</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://Mysteriousbird.github.io/"/>
-  <updated>2020-09-12T09:09:21.942Z</updated>
-  <id>https://Mysteriousbird.github.io/</id>
+  <link href="https://www.m-bird.tk/"/>
+  <updated>2020-11-22T12:28:59.319Z</updated>
+  <id>https://www.m-bird.tk/</id>
   
   <author>
     <name>Mysterious_bird</name>
@@ -17,9 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://www.m-bird.tk/2020/11/22/2-0-2-0/"/>
+    <id>https://www.m-bird.tk/2020/11/22/2-0-2-0/</id>
+    <published>2020-11-22T11:54:00.862Z</published>
+    <updated>2020-11-22T12:28:59.319Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;年度总结&quot;&gt;&lt;a href=&quot;#年度总结&quot; class=&quot;headerlink&quot; title=&quot;年度总结&quot;&gt;&lt;/a&gt;年度总结&lt;/h1&gt;&lt;p&gt;既然没有什么要紧的事，就写一写年度总结吧&lt;/p&gt;
+&lt;h3 id=&quot;1-3月&quot;&gt;&lt;a href=&quot;#1-3月&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Timeline</title>
-    <link href="https://Mysteriousbird.github.io/2020/07/24/timeline/"/>
-    <id>https://Mysteriousbird.github.io/2020/07/24/timeline/</id>
+    <link href="https://www.m-bird.tk/2020/07/24/timeline/"/>
+    <id>https://www.m-bird.tk/2020/07/24/timeline/</id>
     <published>2020-07-23T16:00:00.000Z</published>
     <updated>2020-09-12T09:09:21.942Z</updated>
     
@@ -35,17 +58,17 @@
     
     </summary>
     
-      <category term="其他" scheme="https://Mysteriousbird.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="https://www.m-bird.tk/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-      <category term="其他" scheme="https://Mysteriousbird.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="https://www.m-bird.tk/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
   <entry>
     <title>STL之queue</title>
-    <link href="https://Mysteriousbird.github.io/2020/06/23/stl-zhi-queue/"/>
-    <id>https://Mysteriousbird.github.io/2020/06/23/stl-zhi-queue/</id>
+    <link href="https://www.m-bird.tk/2020/06/23/stl-zhi-queue/"/>
+    <id>https://www.m-bird.tk/2020/06/23/stl-zhi-queue/</id>
     <published>2020-06-22T16:00:00.000Z</published>
     <updated>2020-07-24T04:21:19.440Z</updated>
     
@@ -55,17 +78,17 @@
     
     </summary>
     
-      <category term="知识总结" scheme="https://Mysteriousbird.github.io/categories/%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/"/>
+      <category term="知识总结" scheme="https://www.m-bird.tk/categories/%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/"/>
     
     
-      <category term="coding" scheme="https://Mysteriousbird.github.io/tags/coding/"/>
+      <category term="coding" scheme="https://www.m-bird.tk/tags/coding/"/>
     
   </entry>
   
   <entry>
     <title>题解 CF522B 【Photo to Remember】</title>
-    <link href="https://Mysteriousbird.github.io/2020/05/13/ti-jie-cf522b-photo-to-remember/"/>
-    <id>https://Mysteriousbird.github.io/2020/05/13/ti-jie-cf522b-photo-to-remember/</id>
+    <link href="https://www.m-bird.tk/2020/05/13/ti-jie-cf522b-photo-to-remember/"/>
+    <id>https://www.m-bird.tk/2020/05/13/ti-jie-cf522b-photo-to-remember/</id>
     <published>2020-05-12T16:00:00.000Z</published>
     <updated>2020-07-24T04:20:10.715Z</updated>
     
@@ -75,17 +98,17 @@
     
     </summary>
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>Python初体验</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/28/python-chu-ti-yan/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/28/python-chu-ti-yan/</id>
+    <link href="https://www.m-bird.tk/2020/04/28/python-chu-ti-yan/"/>
+    <id>https://www.m-bird.tk/2020/04/28/python-chu-ti-yan/</id>
     <published>2020-04-27T16:00:00.000Z</published>
     <updated>2020-07-24T04:23:25.820Z</updated>
     
@@ -95,17 +118,17 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="https://Mysteriousbird.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习笔记" scheme="https://www.m-bird.tk/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="coding" scheme="https://Mysteriousbird.github.io/tags/coding/"/>
+      <category term="coding" scheme="https://www.m-bird.tk/tags/coding/"/>
     
   </entry>
   
   <entry>
     <title>题解 CF347A 【Difference Row】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/27/ti-jie-cf347a-difference-row/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/27/ti-jie-cf347a-difference-row/</id>
+    <link href="https://www.m-bird.tk/2020/04/27/ti-jie-cf347a-difference-row/"/>
+    <id>https://www.m-bird.tk/2020/04/27/ti-jie-cf347a-difference-row/</id>
     <published>2020-04-26T16:00:00.000Z</published>
     <updated>2020-07-24T04:20:23.301Z</updated>
     
@@ -116,17 +139,17 @@
     
     </summary>
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>题解 CF734B 【Anton and Digits】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/</id>
+    <link href="https://www.m-bird.tk/2020/04/14/ti-jie-cf734b-anton-and-digits/"/>
+    <id>https://www.m-bird.tk/2020/04/14/ti-jie-cf734b-anton-and-digits/</id>
     <published>2020-04-13T16:00:00.000Z</published>
     <updated>2020-07-24T04:20:33.136Z</updated>
     
@@ -136,17 +159,17 @@
     
     </summary>
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>题解 CF902A 【Visiting a Friend】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/</id>
+    <link href="https://www.m-bird.tk/2020/04/14/ti-jie-cf902a-visiting-a-friend/"/>
+    <id>https://www.m-bird.tk/2020/04/14/ti-jie-cf902a-visiting-a-friend/</id>
     <published>2020-04-13T16:00:00.000Z</published>
     <updated>2020-07-24T04:20:42.992Z</updated>
     
@@ -156,17 +179,17 @@
     
     </summary>
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>STL之vector</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/11/stl-zhi-vector/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/11/stl-zhi-vector/</id>
+    <link href="https://www.m-bird.tk/2020/04/11/stl-zhi-vector/"/>
+    <id>https://www.m-bird.tk/2020/04/11/stl-zhi-vector/</id>
     <published>2020-04-10T16:00:00.000Z</published>
     <updated>2020-07-24T04:21:34.139Z</updated>
     
@@ -176,17 +199,17 @@
     
     </summary>
     
-      <category term="知识总结" scheme="https://Mysteriousbird.github.io/categories/%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/"/>
+      <category term="知识总结" scheme="https://www.m-bird.tk/categories/%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/"/>
     
     
-      <category term="coding" scheme="https://Mysteriousbird.github.io/tags/coding/"/>
+      <category term="coding" scheme="https://www.m-bird.tk/tags/coding/"/>
     
   </entry>
   
   <entry>
     <title>题解 CF701B 【Cells Not Under Attack】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf701b-cells-not-under-attack/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf701b-cells-not-under-attack/</id>
+    <link href="https://www.m-bird.tk/2020/04/10/ti-jie-cf701b-cells-not-under-attack/"/>
+    <id>https://www.m-bird.tk/2020/04/10/ti-jie-cf701b-cells-not-under-attack/</id>
     <published>2020-04-10T12:56:30.000Z</published>
     <updated>2020-07-24T04:20:17.994Z</updated>
     
@@ -196,37 +219,17 @@
     
     </summary>
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>题解 CF450A 【Jzzhu and Children】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/</id>
-    <published>2020-04-09T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:21.433Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;前置知识：&quot;&gt;&lt;a href=&quot;#前置知识：&quot; class=&quot;headerlink&quot; title=&quot;前置知识：&quot;&gt;&lt;/a&gt;前置知识：&lt;/h4&gt;&lt;p&gt;我们在这题用到的算法是STL中的queue&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>题解 CF474A 【Keyboard】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf474a-keyboard/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf474a-keyboard/</id>
+    <link href="https://www.m-bird.tk/2020/04/10/ti-jie-cf474a-keyboard/"/>
+    <id>https://www.m-bird.tk/2020/04/10/ti-jie-cf474a-keyboard/</id>
     <published>2020-04-09T16:00:00.000Z</published>
     <updated>2020-07-24T04:20:20.081Z</updated>
     
@@ -236,57 +239,17 @@
     
     </summary>
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>题解 CF581B 【Luxurious Houses】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/</id>
-    <published>2020-04-09T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:09.639Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h3&gt;&lt;p&gt;给你n栋房子，问你第i栋房子要再搭几层才能比它后面所有的房子高 &lt;strong&gt;（注意：是要严格大于，不能等于）&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>题解 CF681B 【Economy Game】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf681b-economy-game/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf681b-economy-game/</id>
-    <published>2020-04-09T16:00:00.000Z</published>
-    <updated>2020-07-24T04:20:08.611Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h4&gt;&lt;p&gt;这题给你一个n (1&amp;lt;=n&amp;lt;=10^9)让你判断是否有a*1234567+b*123456+c*1234=n的方法（a、b、c皆为正整数）&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>题解 CF748A 【Santa Claus and a Place in a Class】</title>
-    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf748a-santa-claus-and-a-place-in-a-class/"/>
-    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf748a-santa-claus-and-a-place-in-a-class/</id>
+    <link href="https://www.m-bird.tk/2020/04/10/ti-jie-cf748a-santa-claus-and-a-place-in-a-class/"/>
+    <id>https://www.m-bird.tk/2020/04/10/ti-jie-cf748a-santa-claus-and-a-place-in-a-class/</id>
     <published>2020-04-09T16:00:00.000Z</published>
     <updated>2020-07-24T04:20:38.125Z</updated>
     
@@ -296,10 +259,70 @@
     
     </summary>
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF681B 【Economy Game】</title>
+    <link href="https://www.m-bird.tk/2020/04/10/ti-jie-cf681b-economy-game/"/>
+    <id>https://www.m-bird.tk/2020/04/10/ti-jie-cf681b-economy-game/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-07-24T04:20:08.611Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h4&gt;&lt;p&gt;这题给你一个n (1&amp;lt;=n&amp;lt;=10^9)让你判断是否有a*1234567+b*123456+c*1234=n的方法（a、b、c皆为正整数）&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF450A 【Jzzhu and Children】</title>
+    <link href="https://www.m-bird.tk/2020/04/10/ti-jie-cf450a-jzzhu-and-children/"/>
+    <id>https://www.m-bird.tk/2020/04/10/ti-jie-cf450a-jzzhu-and-children/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-07-24T04:20:21.433Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;前置知识：&quot;&gt;&lt;a href=&quot;#前置知识：&quot; class=&quot;headerlink&quot; title=&quot;前置知识：&quot;&gt;&lt;/a&gt;前置知识：&lt;/h4&gt;&lt;p&gt;我们在这题用到的算法是STL中的queue&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF581B 【Luxurious Houses】</title>
+    <link href="https://www.m-bird.tk/2020/04/10/ti-jie-cf581b-luxurious-houses/"/>
+    <id>https://www.m-bird.tk/2020/04/10/ti-jie-cf581b-luxurious-houses/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-07-24T04:20:09.639Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h3&gt;&lt;p&gt;给你n栋房子，问你第i栋房子要再搭几层才能比它后面所有的房子高 &lt;strong&gt;（注意：是要严格大于，不能等于）&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="题解" scheme="https://www.m-bird.tk/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="题解" scheme="https://www.m-bird.tk/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
